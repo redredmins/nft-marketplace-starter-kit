@@ -1,19 +1,6 @@
-# nft-marketplace-starter-kit
-Please run npm install on the terminal to download the appropriate packages already defined to the package.json file. 
-Make sure you are in the source file. 
+# ERC720 NFT 토큰과 마켓 플레이스 웹 만들기
 
-**Please ensure you have downloaded the following additionally **
+<NFT 마켓플레이스 구축 방법을 배우기: Solidity와 React – NFT(대체불가토큰)을 위한Truffle + Web3 - 블록체인> 강의 참고하여 구현.
 
-1. Ganache
-2. Truffle (global installation)
-3. Metamask.io (hooked up on the browser)
-
-**To run the development server on a local host scripts:** npm run start
-
-For truffle tests and console please consult the official Truffle documentaion for updates.
-
-Follow the course module on Udemy to build this project from the ground up:
+강의 url :
 https://www.udemy.com/course/the-complete-solidity-course-blockchain-zero-to-expert/
-
-Good luck and have fun!
-
